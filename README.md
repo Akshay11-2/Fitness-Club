@@ -2,7 +2,7 @@
 
 A modern fitness web application built with React.  
 It includes AI-based diet plan generation, workout suggestions, and fitness tracking tools.
-
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/8bb7d6dc-5ead-4731-892a-52006c73f703" />
 
 ## 🚀 Features
 - Personalized AI diet plan generator
