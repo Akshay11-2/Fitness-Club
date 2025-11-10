@@ -8,7 +8,7 @@ It includes AI-based diet plan generation, workout suggestions, and fitness trac
 - Personalized AI diet plan generator
 - 
 - Workout recommendations
-- <img width="1470" height="956" alt="Image" src="" />
+- <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/33cec0ba-67dd-4d23-809e-96503af955d0" />
 - Responsive UI (red & black theme)
 - PDF export using jsPDF + html2canvas
 
